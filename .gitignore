@@ -24,3 +24,7 @@ dist-ssr
 *.sw?
 .env
 .env/
+.vite.config.ts
+.tsconfig.node.json
+.tsconfig.json
+.eslintrc.cjs
